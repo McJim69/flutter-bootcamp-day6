@@ -1,4 +1,4 @@
-# Simple Stock UI Clone (With Feed Data) Day 6
+# Stock UI Clone (With Feed Data) Day 6
 
 Simple Stock UI Clone (With Feed Data) with a basic widgets in Flutter, a mobile sdk framework by Google.
 
